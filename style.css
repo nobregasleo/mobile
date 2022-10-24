@@ -12,7 +12,7 @@ html, body{
 }
 
 body{
-    background: #116ed8 url(..//imagens/fundoclass.jpg) no-repeat center;
+    background: #116ed8 url(imagens/fundoclass.jpg) no-repeat center;
     background-blend-mode: soft-light;
     background-size: cover;
     background-attachment: fixed;
